@@ -1,0 +1,4 @@
+baseURL = "https://footballnewsru.vercel.app"
+languageCode = "en-us"
+title = "Free Fantasy Football 2021"
+theme = "hugo-theme-minos"
